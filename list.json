@@ -4,8 +4,8 @@
         "repository": "dockerhub",
         "arch": "amd64",
         "icon": "https://raw.githubusercontent.com/qnap-dev/container-apps/master/images/app_gitlab.png",
-        "displayName": "GitLab",
-        "name": "testgitlab",
+        "displayName": "test-GitLab",
+        "name": "gitlab",
         "version": "10.0.4",
         "location": "https://hub.docker.com/r/sameersbn/gitlab/",
         "type": "app"
